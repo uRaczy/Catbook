@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACR,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "search-box.style.scss"
+    ],
+    "names": [],
+    "file": "search-box.style.css"
+}
