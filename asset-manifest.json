@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Catbook/static/css/main.7aeb32e0.chunk.css",
+    "main.js": "/Catbook/static/js/main.0c3bcc81.chunk.js",
+    "main.js.map": "/Catbook/static/js/main.0c3bcc81.chunk.js.map",
+    "runtime-main.js": "/Catbook/static/js/runtime-main.f6f55105.js",
+    "runtime-main.js.map": "/Catbook/static/js/runtime-main.f6f55105.js.map",
+    "static/css/2.86cd2f27.chunk.css": "/Catbook/static/css/2.86cd2f27.chunk.css",
+    "static/js/2.06b78ad2.chunk.js": "/Catbook/static/js/2.06b78ad2.chunk.js",
+    "static/js/2.06b78ad2.chunk.js.map": "/Catbook/static/js/2.06b78ad2.chunk.js.map",
+    "index.html": "/Catbook/index.html",
+    "precache-manifest.4919aabaf90bd5789688012d474a6f2c.js": "/Catbook/precache-manifest.4919aabaf90bd5789688012d474a6f2c.js",
+    "service-worker.js": "/Catbook/service-worker.js",
+    "static/css/2.86cd2f27.chunk.css.map": "/Catbook/static/css/2.86cd2f27.chunk.css.map",
+    "static/css/main.7aeb32e0.chunk.css.map": "/Catbook/static/css/main.7aeb32e0.chunk.css.map",
+    "static/js/2.06b78ad2.chunk.js.LICENSE.txt": "/Catbook/static/js/2.06b78ad2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Catbook/static/media/logo.5d5d9eef.svg",
+    "static/media/index.css": "/Catbook/static/media/roboto-latin-900-normal.bb1e4dc6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6f55105.js",
+    "static/css/2.86cd2f27.chunk.css",
+    "static/js/2.06b78ad2.chunk.js",
+    "static/css/main.7aeb32e0.chunk.css",
+    "static/js/main.0c3bcc81.chunk.js"
+  ]
+}
