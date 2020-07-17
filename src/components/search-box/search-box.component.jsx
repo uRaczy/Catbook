@@ -9,11 +9,17 @@ class SearchBox extends Component {
             search: null
         }
     }
+
+
     
     render() {
+        const updateSearch = () => {
+            
+        }
+
         return (
             <div className='Search-box'>
-                <TextField id='outlined-basic' label='Search' variant='outlined' />
+                <TextField id='outlined-basic' label='Search' variant='outlined' onChange={updateSearch} />
             </div>
         );
     }
